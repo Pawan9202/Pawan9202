@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast, currently pursui
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: **pawanofficial9202@gmail.com**
+- 📧 Email: **singhpawan85555@gmail.com**
 - 🌐 Portfolio: [#](#)
 - 📷 Instagram (Photography): [@happyhest](https://instagram.com/happyhest)
 - 💼 LinkedIn: [Pawan Singh](https://linkedin.com/in/pawan9202)
