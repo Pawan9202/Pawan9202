@@ -1,48 +1,65 @@
-# 👋 Hi there, I'm Pawan Singh (@Pawan9202)
+# 👋 Hi, I'm Pawan Singh
 
-Welcome to my GitHub profile! I'm a passionate tech enthusiast, currently pursuing B.Tech in Computer Science. I love building web applications, exploring artificial intelligence, and capturing the world through photography.
+🚀 **Software Engineer | Full-Stack Developer | CI/CD & Systems Enthusiast**
 
----
-
-## 👀 I’m Interested In
-- Full-Stack Web Development 🌐
-- Artificial Intelligence & Machine Learning 🤖
-- Generative AI & Deep Learning 🧠
-- Data Structures & Algorithms 🧩
-- Open Source Contributions 💻
-- Freelancing & Tech Communities 🌍
+I build **production-ready applications**, design **scalable backend systems**, and automate workflows using **CI/CD pipelines**.
+Focused on writing clean code, solving real problems, and shipping reliable systems.
 
 ---
 
-## 🌱 I’m Currently Learning
-- Advanced JavaScript and React.js ⚛️
-- Backend Development (Node.js, Express, MongoDB) 🔧
-- Machine Learning & Deep Learning with Python 📊
-- AI Product Management & Agentic AI 🚀
+## ⚡ What Sets Me Apart
+
+* 🧩 Strong foundation in **DSA, OS, DBMS, Computer Networks**
+* ⚙️ Hands-on with **CI/CD (GitHub Actions + Docker)**
+* 🌐 Built **5+ production-grade applications**
+* 🔍 Experience in **systems & networking (multi-threading, packet analysis)**
+* 🚀 Consistent problem solver (**500+ DSA problems**)
 
 ---
 
-## 💞️ I’m Looking to Collaborate On
-- Open source projects and hackathons 👨‍💻
-- AI/ML-based innovations and web applications 🔬
-- Tech-for-good and sustainability challenges 🌱
+## 🛠️ Tech Stack
+
+**Languages:** C++, Python, JavaScript, TypeScript
+**Frontend:** React.js, Next.js, Tailwind CSS
+**Backend:** Node.js, Express.js, REST APIs, JWT
+**DevOps:** GitHub Actions, Docker
+**Databases:** MongoDB, PostgreSQL
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: **singhpawan85555@gmail.com**
-- 🌐 Portfolio: [#](https://pawanportfolio-eosin.vercel.app/)
-- 📷 Instagram (Photography): [@happyhest](https://instagram.com/happyhest)
-- 💼 LinkedIn: [Pawan Singh](https://linkedin.com/in/pawan9202)
+## 🚀 Featured Work
+
+### 🔍 DPI Engine (Systems Project)
+
+Multi-threaded packet analyzer for TCP/IP traffic with TLS SNI extraction and scalable processing pipeline.
+
+### 💰 Personal Finance Assistant
+
+Full-stack expense tracker with OCR-based receipt parsing and automated CI/CD pipelines.
+
+### 🤖 Recrumind (AI Project)
+
+AI-powered resume evaluation platform with prompt engineering and modular backend design.
 
 ---
 
-## 😄 Pronouns
-He/Him
+## 📊 Achievements
+
+* 🥇 Ranked **4th in university hackathon (50+ teams)**
+* 📈 Solved **500+ DSA problems**
+* 🚀 Deployed multiple real-world applications
 
 ---
 
-## ⚡ Fun Fact
-I can switch from coding in VS Code to capturing perfect light angles with my camera in seconds! I'm also fluent in **English**, **Hindi**, and **Spanish** 🌎
+## 📫 Let’s Connect
+
+* 📧 Email: [singhpawan85555@gmail.com](mailto:singhpawan85555@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/pawan9202
+* 🌐 Portfolio: pawanportfolio-eosin.vercel.app
 
 ---
+
+## 🎯 Currently Looking For
+
+**Software Engineer / Full-Stack / DevOps roles**
+Open to opportunities where I can build scalable and impactful systems.
